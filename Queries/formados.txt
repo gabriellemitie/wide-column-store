@@ -1,0 +1,1 @@
+SELECT * FROM projeto.alunos_formados WHERE ano_aprovado = 2009 AND semestre_aprovado = 1 ALLOW FILTERING;

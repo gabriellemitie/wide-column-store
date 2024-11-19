@@ -1,0 +1,3 @@
+SELECT * FROM projeto.historico_prof
+WHERE nome_prof = 'Eric Carter'
+ALLOW FILTERING;

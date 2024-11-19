@@ -1,0 +1,4 @@
+
+SELECT * FROM projeto.historico_aluno
+WHERE nome_aluno = 'Christopher Pitts'
+ALLOW FILTERING;

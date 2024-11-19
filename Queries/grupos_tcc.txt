@@ -1,0 +1,3 @@
+SELECT * FROM projeto.grupos_tcc
+WHERE id_tcc = 3
+ALLOW FILTERING;
