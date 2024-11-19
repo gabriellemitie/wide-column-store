@@ -95,7 +95,8 @@ CREATE TABLE Professor (
     nome_prof TEXT,  
     chefe_dep BOOLEAN,  
     id_curso INT  
-);
+);  
+
 
 
 
